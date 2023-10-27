@@ -23,7 +23,6 @@ print("{:.2f}".format(d))
 
 
 ### OUTPUT:
-!
-[output](./distance%20output.png)
+![output](./distance%20output.png)
 
 ### RESULT:
